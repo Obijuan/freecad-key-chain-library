@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="github-freecad-T3-exp-1.svg">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3872" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3866" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94739246"
+     inkscape:cx="369.45605"
+     inkscape:cy="773.63632"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1623"
+     inkscape:window-height="918"
+     inkscape:window-x="106"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect4475"
+       width="480.26556"
+       height="393.71225"
+       x="110.30276"
+       y="33.249138"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect3013"
+       width="360.99084"
+       height="194.2173"
+       x="158.32932"
+       y="36.943504"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#ececec"
+       externalResourcesRequired="false"
+       id="layer1-3"
+       transform="matrix(0.95208268,0,0,0.9477593,62.352393,-79.461172)"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ececec;stroke:#000000;stroke-width:1.12465882000000006;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0"
+         stroke-miterlimit="4"
+         id="path4952"
+         d="m 361.35709,136.85653 c -22.3377,-3.63001 -44.94333,0.52417 -60.54913,9.54894 -8.15338,-5.9437 -19.19352,-10.53102 -32.43568,-12.68281 -34.08015,-5.53809 -69.18873,6.75514 -78.32056,27.42407 -0.671,1.51875 -0.84766,3.04604 -1.20755,4.56505 -30.69082,-1.93488 -60.05711,9.71757 -68.29604,28.36581 -8.16361,18.47763 7.24157,37.37158 34.92991,45.14006 -1.50506,1.97939 -2.90837,4.01858 -3.86982,6.1944 -9.13165,20.66893 11.15848,41.91584 45.23867,47.45395 16.69256,2.71299 33.56182,1.11997 47.56525,-3.60898 7.71771,10.01333 22.10692,18.07253 41.07558,21.15481 27.06414,4.39819 54.52739,-2.56889 69.35421,-15.9225 6.00598,2.57869 12.6819,4.71169 20.20189,5.93395 34.08014,5.53811 69.11325,-6.76763 78.24502,-27.43657 4.59199,-10.39338 1.75065,-20.91136 -6.53864,-29.53154 8.20367,-4.74421 14.62512,-10.75371 17.7714,-17.87512 9.13179,-20.66919 -11.15838,-41.91608 -45.23856,-47.4542 -3.58757,-0.58273 -7.18118,-0.91101 -10.75927,-1.11019 2.12071,-18.15058 -17.11399,-35.27532 -47.16668,-40.15913 z" />
+    </g>
+    <rect
+       style="fill:#ff0000;stroke:none"
+       id="rect3805-5"
+       width="26.263966"
+       height="22.223356"
+       x="355.1297"
+       y="102.14068"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.29973161px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 300.23132,126.55089 17.99667,-26.27559 15.45994,26.1242 z"
+       id="path3926-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:none"
+       id="path3928-0"
+       sodipodi:cx="-304.05591"
+       sodipodi:cy="60.392384"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="17.172594"
+       d="m -286.88331,60.392384 a 17.172594,17.172594 0 1 1 -34.34519,0 17.172594,17.172594 0 1 1 34.34519,0 z"
+       transform="translate(623.83029,103.87271)"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.64230728px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="271.00897"
+       y="84.080505"
+       id="text3032"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3034"
+         x="271.00897"
+         y="84.080505">GITHUB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.81432915px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360.09979"
+       y="84.77063"
+       id="text3009"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T3-git-pull/github-freecad-T3-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="360.09979"
+         y="84.77063">Llaveros</tspan></text>
+  </g>
+</svg>
