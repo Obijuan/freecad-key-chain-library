@@ -819,7 +819,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1387,19 +1387,24 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="313.27322"
-       y="-535.36987"
+       x="-400.17902"
+       y="501.54596"
        id="text4471-1-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.01177072,0.99993072,-0.99993072,0.01177072,0,0)"
+       transform="matrix(-0.01177072,-0.99993072,0.99993072,-0.01177072,0,0)"
        inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T4-fork-me/github-freecad-T4-exp-4.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4473-4-6"
-         x="313.27322"
-         y="-535.36987"
-         style="font-size:20px;font-weight:bold;fill:#0000ff;-inkscape-font-specification:Sans Bold">git pull</tspan></text>
+         x="-400.17902"
+         y="501.54596"
+         style="font-size:20px;font-weight:bold;fill:#0000ff;-inkscape-font-specification:Sans Bold">git clone</tspan><tspan
+         sodipodi:role="line"
+         x="-400.17902"
+         y="526.54596"
+         style="font-size:20px;font-weight:bold;fill:#0000ff;-inkscape-font-specification:Sans Bold"
+         id="tspan3162" /></text>
     <path
        sodipodi:type="star"
        style="fill:#00ff00;stroke:none"
