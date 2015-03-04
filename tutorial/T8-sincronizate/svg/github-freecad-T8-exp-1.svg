@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="github-freecad-T8-exp-1.svg">
   <defs
      id="defs4">
@@ -2060,6 +2060,20 @@
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
          id="path3866-30-3" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-94-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3866-30-2" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2068,14 +2082,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47369624"
-     inkscape:cx="312.88316"
-     inkscape:cy="586.94066"
+     inkscape:zoom="0.94739248"
+     inkscape:cx="357.12295"
+     inkscape:cy="652.16588"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -2089,7 +2103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2693,7 +2707,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-94)"
-       d="m 149.27432,588.11907 74.57641,-67.14295"
+       d="M 556.0544,443.75721 429.31876,443.29755"
        id="path3645"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T8-sincronizate/github-freecad-T8-exp-1.png"
@@ -2819,5 +2833,28 @@
        inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T8-sincronizate/github-freecad-T8-exp-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-94)"
+       d="m 152.44091,586.00801 74.57641,-67.14295"
+       id="path3645-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T8-sincronizate/github-freecad-T8-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.81432915px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="448.0737"
+       y="433.59921"
+       id="text3009-7-9-1-4-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/freecad-key-chain-library/tutorial/T8-sincronizate/github-freecad-T8-exp-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.99999553,0.00298906,-0.00298906,0.99999553,0,0)"><tspan
+         sodipodi:role="line"
+         x="448.0737"
+         y="433.59921"
+         id="tspan5816-4-4">pull request</tspan></text>
   </g>
 </svg>
