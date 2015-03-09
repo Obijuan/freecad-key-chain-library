@@ -1,0 +1,4 @@
+# FreeCAD backup files #
+###################
+*.fcstd?
+*.FCStd?
